@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "selenium-nightwatch": {}
+    },
+    "packages": {
+      "selenium-nightwatch": {
+        "git": "https://github.com/awatson1978/selenium-nightwatch.git",
+        "tag": "v0.3.0",
+        "commit": "a8fa38cf074ec4f7f656477ec00aeba22dbc3828"
+      }
+    }
+  }
+}
